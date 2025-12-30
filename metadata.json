@@ -1,0 +1,5 @@
+{
+  "name": "Modelo Asignación Presupuestaria UNSJ",
+  "description": "A professional tool for simulating University Budget Allocation using the Argentine CIN model variables (Students, Complexity, Faculty, Research). Includes AI-generated documentation.",
+  "requestFramePermissions": []
+}
